@@ -1,0 +1,38 @@
+# Steel Curtain — Steelers palette x Foolish Chatter (Pixl) design system
+# Steelers: gold #FFB612 · black #101820 · blue #003087 · red #C60C30 · silver #A5ACAF
+# Foolish Chatter: highlighter #FFFA52 · olive #C0BB22 · hard black/yellow contrast
+mode = "dark"
+
+accent = "#FFB612"
+
+# Window borders (Omarchy builds hyprland.lua from these)
+hyprland_active_border = "rgb(FFB612)"
+hyprland_inactive_border = "rgba(3A4654cc)"
+selection = "#2A3644"
+muted = "#3A4654"
+
+background = "#101820"
+dark_background = "#0B1118"
+darker_background = "#070B10"
+lighter_background = "#1A2430"
+
+foreground = "#E6E8E9"
+dark_foreground = "#6B7378"
+light_foreground = "#A5ACAF"
+bright_foreground = "#FFFFFF"
+
+red = "#C60C30"
+yellow = "#FFB612"
+orange = "#F28C28"
+green = "#C0BB22"
+cyan = "#7FB3C8"
+blue = "#4A7FD4"
+magenta = "#D9577A"
+brown = "#8A5A00"
+
+bright_red = "#E8334F"
+bright_yellow = "#FFFA52"
+bright_green = "#DCD645"
+bright_cyan = "#A8D4E0"
+bright_blue = "#7FA6E8"
+bright_magenta = "#F08AA0"
